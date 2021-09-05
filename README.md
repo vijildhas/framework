@@ -1,2 +1,2 @@
 # framework
-Android Java MVVM Network framework
+Project setup MVVM Java
